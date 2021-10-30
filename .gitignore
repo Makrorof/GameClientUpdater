@@ -1,0 +1,13 @@
+css/
+dist/
+data/
+images/
+js/
+sound/
+svg/
+node_modules/
+*.jsc
+*.js
+*.html
+*.json
+*.yml
